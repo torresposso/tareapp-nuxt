@@ -7,9 +7,6 @@ if (session.value?.session.userId) {
   router.push('/')
 }
 
-
-
-
 // Form state
 const name = ref('')
 const email = ref('')
